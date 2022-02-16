@@ -1,7 +1,6 @@
 
 /** CS610851: Programming Assignment 3
  *  Submitted by: Rimpalbahen Suthar
- *  NJIT ID: 31481275
  */
 public class Dijkstra {
     int w[][] = null;
